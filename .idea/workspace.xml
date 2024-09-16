@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="" />
+    <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="Math questions dsa gfg and LC">
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCDeucledian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LCMusingeucleadian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OptimisedGCDeucledian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trailingzerosinfactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2m6bKwOhRh7zvtvnTyOn7JWTuPy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +42,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Factorial.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.GCDeucledian.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.OptimisedGCDeucledian.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Trailingzerosinfactorial.executor": "Run",
+    "Application.count.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/manna/IdeaProjects/MathematicsDSA/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -45,12 +79,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726399919092</updated>
-      <workItem from="1726399920222" duration="5000" />
+      <workItem from="1726399920222" duration="8361000" />
+      <workItem from="1726497933228" duration="758000" />
     </task>
+    <task id="LOCAL-00001" summary="Math questions dsa gfg and LC">
+      <option name="closed" value="true" />
+      <created>1726400011161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726400011161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Math questions dsa gfg and LC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math questions dsa gfg and LC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
