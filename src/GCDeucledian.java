@@ -1,4 +1,4 @@
-public class GCDeucledian {
+public classGCDeucledian {
     static int GCD(int a, int b) {
         while (a!=b){
             if(a>b){

@@ -13,4 +13,5 @@ public class LCM {
     public static void main(String[] args) {
         System.out.println(LCM(3,4));
     }
+
 }
