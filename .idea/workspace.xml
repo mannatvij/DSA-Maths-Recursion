@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="Math questions dsa gfg and LC">
-      <change afterPath="$PROJECT_DIR$/src/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Primefactorsoptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Printalldivisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UglynumberLC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GCDeucledian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCDeucledian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LCM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,30 +46,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GCD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GCDeucledian.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LCMusingeucleadian.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OptimisedGCDeucledian.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trailingzerosinfactorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/manna/IdeaProjects/MathematicsDSA/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Factorial.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.GCDeucledian.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.LCMusingeucleadian.executor": "Run",
+    "Application.OptimisedGCDeucledian.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeFactors.executor": "Run",
+    "Application.Primefactorsoptimized.executor": "Run",
+    "Application.Printalldivisors.executor": "Run",
+    "Application.Trailingzerosinfactorial.executor": "Run",
+    "Application.UglynumberLC.executor": "Run",
+    "Application.count.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/manna/IdeaProjects/MathematicsDSA/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,7 +92,8 @@
       <updated>1726399919092</updated>
       <workItem from="1726399920222" duration="8361000" />
       <workItem from="1726497933228" duration="6428000" />
-      <workItem from="1726538629837" duration="303000" />
+      <workItem from="1726538629837" duration="1338000" />
+      <workItem from="1726547825861" duration="1297000" />
     </task>
     <task id="LOCAL-00001" summary="Math questions dsa gfg and LC">
       <option name="closed" value="true" />
@@ -107,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726498974728</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Math questions dsa gfg and LC">
+      <option name="closed" value="true" />
+      <created>1726539104263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726539104263</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Math questions dsa gfg and LC">
+      <option name="closed" value="true" />
+      <created>1726539459598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726539459598</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
