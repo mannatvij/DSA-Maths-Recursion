@@ -21,4 +21,3 @@ public class Findsquareroot { //Leetcode problem 69.
             return result;
         }
     }
-
