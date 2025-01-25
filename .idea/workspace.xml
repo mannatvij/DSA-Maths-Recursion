@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="Math questions dsa gfg and LC">
-      <change afterPath="$PROJECT_DIR$/src/Primefactorsoptimized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Printalldivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UglynumberLC.java" afterDir="false" />
+    <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="question LC">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitMaagic/BitMaagic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitMaagic/src/Countsetbitsnaive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitMaagic/src/Kthbit1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitMaagic/src/Kthbit2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,37 +51,80 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddDigits.executor": "Run",
+    "Application.Adddigitsbysplitting.executor": "Run",
+    "Application.Basicrecursion.executor": "Run",
+    "Application.Basicrecursionprogram.executor": "Run",
+    "Application.Computepower.executor": "Run",
+    "Application.Computepowerefficient.executor": "Run",
+    "Application.Countsetbitsnaive.executor": "Run",
+    "Application.CountsumSubset.executor": "Run",
+    "Application.Cutrope.executor": "Run",
+    "Application.Decimaltobinary.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.Fibonnacibasecase.executor": "Run",
     "Application.GCD.executor": "Run",
     "Application.GCDeucledian.executor": "Run",
+    "Application.Generatesubsets.executor": "Run",
+    "Application.Iterativepower.executor": "Run",
+    "Application.Josephusproblem.executor": "Run",
+    "Application.Kthbit1.executor": "Run",
+    "Application.Kthbit2.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.LCMusingeucleadian.executor": "Run",
+    "Application.Myhash.executor": "Run",
+    "Application.NimgameLC.executor": "Run",
+    "Application.Nto1numbers.executor": "Run",
     "Application.OptimisedGCDeucledian.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.Palindromecheck.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.Powerof3LC326.executor": "Run",
+    "Application.Powerof4LC342.executor": "Run",
+    "Application.PowerofHanoi.executor": "Run",
+    "Application.PowerofTwo231.executor": "Run",
     "Application.PrimeFactors.executor": "Run",
     "Application.Primefactorsoptimized.executor": "Run",
     "Application.Printalldivisors.executor": "Run",
+    "Application.Recursionbasic2.executor": "Run",
+    "Application.Recursionlogcase.executor": "Run",
+    "Application.Recursionoutputpractise.executor": "Run",
+    "Application.Runningsumofarray1480LC.executor": "Run",
+    "Application.SieveOfparentheses.executor": "Run",
+    "Application.Sumofdigits.executor": "Run",
+    "Application.Sumofnaturalnumbers.executor": "Run",
+    "Application.TicTactoe.executor": "Run",
     "Application.Trailingzerosinfactorial.executor": "Run",
+    "Application.TwosumLC1.executor": "Run",
     "Application.UglynumberLC.executor": "Run",
+    "Application.ValidperfectSquare.executor": "Run",
     "Application.count.executor": "Run",
+    "Application.shownumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/manna",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/manna/IdeaProjects/MathematicsDSA/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/manna/IdeaProjects/MathematicsDSA/BitMaagic/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
       </set>
     </attachedChunks>
   </component>
@@ -94,6 +140,34 @@
       <workItem from="1726497933228" duration="6428000" />
       <workItem from="1726538629837" duration="1338000" />
       <workItem from="1726547825861" duration="1297000" />
+      <workItem from="1726552696518" duration="961000" />
+      <workItem from="1726580898647" duration="4404000" />
+      <workItem from="1726635387182" duration="1958000" />
+      <workItem from="1726652449402" duration="1347000" />
+      <workItem from="1726739476511" duration="2662000" />
+      <workItem from="1726747892863" duration="4179000" />
+      <workItem from="1726839699583" duration="4149000" />
+      <workItem from="1726900080034" duration="7000" />
+      <workItem from="1726916320422" duration="1314000" />
+      <workItem from="1727097161507" duration="24000" />
+      <workItem from="1727155642825" duration="4561000" />
+      <workItem from="1727185279251" duration="13000" />
+      <workItem from="1727188140664" duration="1831000" />
+      <workItem from="1727243641767" duration="480000" />
+      <workItem from="1727327270546" duration="23000" />
+      <workItem from="1727879127365" duration="2595000" />
+      <workItem from="1727943064531" duration="5423000" />
+      <workItem from="1728060245963" duration="707000" />
+      <workItem from="1728194758301" duration="279000" />
+      <workItem from="1736931492969" duration="271000" />
+      <workItem from="1737543474076" duration="31000" />
+      <workItem from="1737544915479" duration="216000" />
+      <workItem from="1737562951186" duration="369000" />
+      <workItem from="1737566329987" duration="1795000" />
+      <workItem from="1737623735180" duration="4325000" />
+      <workItem from="1737729076298" duration="305000" />
+      <workItem from="1737780536610" duration="193000" />
+      <workItem from="1737781195074" duration="1133000" />
     </task>
     <task id="LOCAL-00001" summary="Math questions dsa gfg and LC">
       <option name="closed" value="true" />
@@ -127,15 +201,131 @@
       <option name="project" value="LOCAL" />
       <updated>1726539459598</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Math questions dsa gfg and LC">
+      <option name="closed" value="true" />
+      <created>1726552988277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726552988277</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Leetcode">
+      <option name="closed" value="true" />
+      <created>1726585131602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726585131602</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Leetcode">
+      <option name="closed" value="true" />
+      <created>1726588440623</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726588440623</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pratise">
+      <option name="closed" value="true" />
+      <created>1726653670311</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726653670311</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Recursion">
+      <option name="closed" value="true" />
+      <created>1726854089855</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726854089855</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tower of hanoi.">
+      <option name="closed" value="true" />
+      <created>1727188168074</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727188168074</updated>
+    </task>
+    <task id="LOCAL-00011" summary="leetcode 1823">
+      <option name="closed" value="true" />
+      <created>1727243857400</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727243857400</updated>
+    </task>
+    <task id="LOCAL-00012" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1727945326780</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727945326780</updated>
+    </task>
+    <task id="LOCAL-00013" summary="question">
+      <option name="closed" value="true" />
+      <created>1727945362298</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727945362298</updated>
+    </task>
+    <task id="LOCAL-00014" summary="question">
+      <option name="closed" value="true" />
+      <created>1728060347202</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728060347203</updated>
+    </task>
+    <task id="LOCAL-00015" summary="question LC">
+      <option name="closed" value="true" />
+      <created>1737729251371</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737729251371</updated>
+    </task>
+    <task id="LOCAL-00016" summary="question LC">
+      <option name="closed" value="true" />
+      <created>1737729338729</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737729338729</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Math questions dsa gfg and LC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Math questions dsa gfg and LC" />
+    <MESSAGE value="LC 69" />
+    <MESSAGE value="Leetcode" />
+    <MESSAGE value="Pratise" />
+    <MESSAGE value="Recursion" />
+    <MESSAGE value="Tower of hanoi." />
+    <MESSAGE value="leetcode 1823" />
+    <MESSAGE value="leetcode" />
+    <MESSAGE value="question" />
+    <MESSAGE value="question LC" />
+    <option name="LAST_COMMIT_MESSAGE" value="question LC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -144,6 +334,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Recursion/Hashing/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BitMaagic/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

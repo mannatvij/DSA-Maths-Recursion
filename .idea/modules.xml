@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitMaagic/BitMaagic.iml" filepath="$PROJECT_DIR$/BitMaagic/BitMaagic.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathematicsDSA.iml" filepath="$PROJECT_DIR$/MathematicsDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
     </modules>
   </component>
 </project>
