@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="question LC">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitMaagic/BitMaagic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitMaagic/src/Countsetbitsnaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitMaagic/src/Kthbit1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitMaagic/src/Kthbit2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="question">
+      <change afterPath="$PROJECT_DIR$/BitMaagic/src/Reversebits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitMaagic/src/countbits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +36,9 @@
     &quot;accountId&quot;: &quot;ae5e09a4-93d4-4782-be25-b4d189cd984c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -55,6 +54,7 @@
     "Application.Adddigitsbysplitting.executor": "Run",
     "Application.Basicrecursion.executor": "Run",
     "Application.Basicrecursionprogram.executor": "Run",
+    "Application.BrianKerrignam.executor": "Run",
     "Application.Computepower.executor": "Run",
     "Application.Computepowerefficient.executor": "Run",
     "Application.Countsetbitsnaive.executor": "Run",
@@ -72,23 +72,30 @@
     "Application.Kthbit2.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.LCMusingeucleadian.executor": "Run",
+    "Application.Lookupmethod.executor": "Run",
     "Application.Myhash.executor": "Run",
     "Application.NimgameLC.executor": "Run",
     "Application.Nto1numbers.executor": "Run",
+    "Application.OddOccuring.executor": "Run",
+    "Application.OddOccuringefficent.executor": "Run",
     "Application.OptimisedGCDeucledian.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Palindromecheck.executor": "Run",
     "Application.Power.executor": "Run",
+    "Application.Powerof2efficient.executor": "Run",
+    "Application.Powerof2naive.executor": "Run",
     "Application.Powerof3LC326.executor": "Run",
     "Application.Powerof4LC342.executor": "Run",
     "Application.PowerofHanoi.executor": "Run",
     "Application.PowerofTwo231.executor": "Run",
+    "Application.Powerset.executor": "Run",
     "Application.PrimeFactors.executor": "Run",
     "Application.Primefactorsoptimized.executor": "Run",
     "Application.Printalldivisors.executor": "Run",
     "Application.Recursionbasic2.executor": "Run",
     "Application.Recursionlogcase.executor": "Run",
     "Application.Recursionoutputpractise.executor": "Run",
+    "Application.Reversebits.executor": "Run",
     "Application.Runningsumofarray1480LC.executor": "Run",
     "Application.SieveOfparentheses.executor": "Run",
     "Application.Sumofdigits.executor": "Run",
@@ -99,6 +106,7 @@
     "Application.UglynumberLC.executor": "Run",
     "Application.ValidperfectSquare.executor": "Run",
     "Application.count.executor": "Run",
+    "Application.countbits.executor": "Run",
     "Application.shownumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -168,6 +176,8 @@
       <workItem from="1737729076298" duration="305000" />
       <workItem from="1737780536610" duration="193000" />
       <workItem from="1737781195074" duration="1133000" />
+      <workItem from="1737801426125" duration="5340000" />
+      <workItem from="1737814832116" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="Math questions dsa gfg and LC">
       <option name="closed" value="true" />
@@ -297,7 +307,55 @@
       <option name="project" value="LOCAL" />
       <updated>1737729338729</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="question">
+      <option name="closed" value="true" />
+      <created>1737801454433</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737801454433</updated>
+    </task>
+    <task id="LOCAL-00018" summary="question">
+      <option name="closed" value="true" />
+      <created>1737801481141</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737801481141</updated>
+    </task>
+    <task id="LOCAL-00019" summary="question">
+      <option name="closed" value="true" />
+      <created>1737803556121</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737803556121</updated>
+    </task>
+    <task id="LOCAL-00020" summary="question">
+      <option name="closed" value="true" />
+      <created>1737805254908</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737805254908</updated>
+    </task>
+    <task id="LOCAL-00021" summary="question">
+      <option name="closed" value="true" />
+      <created>1737805740592</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737805740592</updated>
+    </task>
+    <task id="LOCAL-00022" summary="question">
+      <option name="closed" value="true" />
+      <created>1737806730342</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737806730342</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,9 +381,9 @@
     <MESSAGE value="Tower of hanoi." />
     <MESSAGE value="leetcode 1823" />
     <MESSAGE value="leetcode" />
-    <MESSAGE value="question" />
     <MESSAGE value="question LC" />
-    <option name="LAST_COMMIT_MESSAGE" value="question LC" />
+    <MESSAGE value="question" />
+    <option name="LAST_COMMIT_MESSAGE" value="question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
