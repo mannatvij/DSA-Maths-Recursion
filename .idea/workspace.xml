@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dea0b43-ea73-4a61-b489-de0007c9fdff" name="Changes" comment="question">
-      <change afterPath="$PROJECT_DIR$/String/String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/src/BasicfunctionsofString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/src/ConcatenateStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/src/Frequenciesofchar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/src/FunctionsOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/src/LiteralPoolInJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/AnagramEfficent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/AnagramNaive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/LC1668.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/LC796.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/LeftMostNaive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/LeftMostrepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/LeftmostnonrepeatingNaive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +57,8 @@
   "keyToString": {
     "Application.AddDigits.executor": "Run",
     "Application.Adddigitsbysplitting.executor": "Run",
+    "Application.AnagramEfficent.executor": "Run",
+    "Application.AnagramNaive.executor": "Run",
     "Application.BasicfunctionsofString.executor": "Run",
     "Application.Basicrecursion.executor": "Run",
     "Application.Basicrecursionprogram.executor": "Run",
@@ -76,12 +77,18 @@
     "Application.GCD.executor": "Run",
     "Application.GCDeucledian.executor": "Run",
     "Application.Generatesubsets.executor": "Run",
+    "Application.IssubsequenceIterative.executor": "Run",
+    "Application.IssubsequenceRecursive.executor": "Run",
     "Application.Iterativepower.executor": "Run",
     "Application.Josephusproblem.executor": "Run",
     "Application.Kthbit1.executor": "Run",
     "Application.Kthbit2.executor": "Run",
+    "Application.LC1668.executor": "Run",
+    "Application.LC796.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.LCMusingeucleadian.executor": "Run",
+    "Application.LeftMostNaive.executor": "Run",
+    "Application.LeftmostnonrepeatingNaive.executor": "Run",
     "Application.LiteralPoolInJava.executor": "Run",
     "Application.Lookupmethod.executor": "Run",
     "Application.Myhash.executor": "Run",
@@ -91,6 +98,8 @@
     "Application.OddOccuringefficent.executor": "Run",
     "Application.OptimisedGCDeucledian.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.PalindromeEffiencet.executor": "Run",
+    "Application.Palindromebasic.executor": "Run",
     "Application.Palindromecheck.executor": "Run",
     "Application.Power.executor": "Run",
     "Application.Powerof2efficient.executor": "Run",
@@ -190,7 +199,7 @@
       <workItem from="1737801426125" duration="5340000" />
       <workItem from="1737814832116" duration="1905000" />
       <workItem from="1738145324353" duration="2578000" />
-      <workItem from="1738992147813" duration="2092000" />
+      <workItem from="1738992147813" duration="10561000" />
     </task>
     <task id="LOCAL-00001" summary="Math questions dsa gfg and LC">
       <option name="closed" value="true" />
@@ -376,7 +385,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738145370612</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="question">
+      <option name="closed" value="true" />
+      <created>1738994272702</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1738994272702</updated>
+    </task>
+    <task id="LOCAL-00025" summary="question">
+      <option name="closed" value="true" />
+      <created>1739004212153</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739004212153</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
